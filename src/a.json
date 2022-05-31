@@ -1,0 +1,271 @@
+{
+  "status": 0,
+  "data": [
+    {
+      "resourceid": 802,
+      "resourcename": "10.32.168.128",
+      "serviceid": 816,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.32.168.128",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 23,
+        "accessaddr": "10.32.168.128",
+        "accountid": "1000c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 808,
+      "resourcename": "59.202.74.220",
+      "serviceid": 822,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "59.202.74.220",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 23,
+        "accessaddr": "59.202.74.220",
+        "accountid": "4629c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 2189,
+      "resourcename": "\u4e34\u5e73\u533a\u96ea\u4eae\u5de5\u7a0b\u603b\u5e73\u53f0\u670d\u52a1\u5668",
+      "serviceid": 2264,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.32.185.88",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 23,
+        "accessaddr": "10.32.185.88",
+        "accountid": "2683c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 1288,
+      "resourcename": "10.71.163.150",
+      "serviceid": 1322,
+      "servicetype": 15,
+      "accountid": null,
+      "serviceip": "10.71.163.150",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "password:",
+        "root_prt": ">",
+        "normal_prt": ">",
+        "charset": "GB2312",
+        "sucmd": "",
+        "suprompt": "",
+        "size": "auto",
+        "cliprdr": 1,
+        "rdpdr": 1,
+        "direct": "F:",
+        "loginas": "NORMAL",
+        "keybordaudit": 1
+      },
+      "account": "administrator",
+      "extattr": {
+        "toolid": 5,
+        "accessaddr": "10.71.163.150",
+        "accountid": "1012c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 3187,
+      "resourcename": "\u5a92\u4f53\u4ea4\u6362\u670d\u52a1\u8f6f\u4ef6\u670d\u52a1\u5668",
+      "serviceid": 3381,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.32.139.128",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 27,
+        "accessaddr": "10.32.139.128",
+        "accountid": "4448c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 1665,
+      "resourcename": "10.71.163.147",
+      "serviceid": 1715,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.71.163.147",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 23,
+        "accessaddr": "10.71.163.147",
+        "accountid": "1993c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 2901,
+      "resourcename": "\u96ea\u4eae\u5907\u7528\u6570\u636e\u5e93\u670d\u52a1\u5668",
+      "serviceid": 3050,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.32.168.151",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 2,
+        "accessaddr": "10.32.168.151",
+        "accountid": "4133c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 3188,
+      "resourcename": "\u5a92\u4f53\u4ea4\u6362\u670d\u52a1\u8f6f\u4ef6\u670d\u52a1\u5668_225\u590d\u523b",
+      "serviceid": 3382,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.32.139.129",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 27,
+        "accessaddr": "10.32.139.129",
+        "accountid": "4450c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 803,
+      "resourcename": "10.32.168.129",
+      "serviceid": 817,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "10.32.168.129",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 1,
+        "accessaddr": "10.32.168.129",
+        "accountid": "1049c",
+        "rememberhistory": true
+      }
+    },
+    {
+      "resourceid": 810,
+      "resourcename": "59.202.74.221",
+      "serviceid": 824,
+      "servicetype": 16,
+      "accountid": null,
+      "serviceip": "59.202.74.221",
+      "tooltype": 2,
+      "sshv1": 0,
+      "param": {
+        "lgn_usr_prt": "login:",
+        "lgn_pwd_prt": "Password:",
+        "root_prt": "#",
+        "normal_prt": "$",
+        "charset": "UTF-8",
+        "sucmd": "su",
+        "suprompt": "Password:"
+      },
+      "account": "root",
+      "extattr": {
+        "toolid": 1,
+        "accessaddr": "59.202.74.221",
+        "accountid": "1052c",
+        "rememberhistory": true
+      }
+    }
+  ]
+}
